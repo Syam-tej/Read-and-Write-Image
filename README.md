@@ -31,6 +31,13 @@ cv2.destroyAllWindows()
 ```
 ii) #To write the image
 ```
+import cv2
+a=cv2.imread('sam1.jpg',1)
+cv2.imwrite('sam2.jpg',a)
+cv2.imshow('sam3',a)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+
 
 
 
@@ -61,8 +68,6 @@ v) #To cut and paste portion of image
 
 ### ii)Write the image
 
-<br>
-<br>
 
 ### iii)Shape of the Image
 
