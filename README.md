@@ -23,8 +23,11 @@ End the program and close the output image windows.
 ### Register Number: 
 i) #To Read,display the image
 ```
-  import cv2
-
+ import cv2
+a=cv2.imread("sam1.jpg",1)
+cv2.imshow('window',a)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 ```
 ii) #To write the image
 ```
