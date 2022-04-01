@@ -59,7 +59,6 @@ v) #To cut and paste portion of image
 ### i) Read and display the image
 
 <br>
-![op](1.png)
 <br>
 
 ### ii)Write the image
