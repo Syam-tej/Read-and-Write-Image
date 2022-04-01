@@ -67,7 +67,7 @@ v) #To cut and paste portion of image
 ![GitHub Logo](1.png)
 
 ### ii)Write the image
-
+![GitHub Logo](2.png)
 
 ### iii)Shape of the Image
 
