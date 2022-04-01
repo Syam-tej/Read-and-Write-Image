@@ -57,10 +57,7 @@ v) #To cut and paste portion of image
 ## Output:
 
 ### i) Read and display the image
-
-<br>
-![op](./1.png)
-<br>
+![GitHub Logo](1.png)
 
 ### ii)Write the image
 
