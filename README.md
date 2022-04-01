@@ -52,14 +52,29 @@ print(a.shape)
 
 ```
 iv) #To access rows and columns
-```python3
+```
+import cv2
+a=cv2.imread('r.jpg',1)
+import random
+for i in range (100):
+    for j in range(a.shape[1]):
+        a[i][j] = [random.randint(0,255),random.randint(0,255),random.randint(0,255)]
+cv2.imshow('Iron man',a)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 
 
 ```
 v) #To cut and paste portion of image
-```python3
-
+```
+import cv2
+a=cv2.imread('r.jpg',1)
+tag = a[100:200,100:200]
+a[50:150,50:150] = tag
+cv2.imshow('Image',a)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 
 ```
