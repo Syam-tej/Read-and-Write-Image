@@ -43,7 +43,10 @@ cv2.destroyAllWindows()
 
 ```
 iii) #Find the shape of the Image
-``python3
+```
+import cv2
+a=cv2.imread('sam1.jpg',1)
+print(a.shape)
 
 
 
@@ -70,9 +73,8 @@ v) #To cut and paste portion of image
 ![GitHub Logo](2.png)
 
 ### iii)Shape of the Image
+![GitHub Logo](3.png)
 
-<br>
-<br>
 
 ### iv)Access rows and columns
 <br>
