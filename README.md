@@ -59,7 +59,7 @@ v) #To cut and paste portion of image
 ### i) Read and display the image
 
 <br>
-Screenshot from 2022-04-01 03-25-26.png
+Screenshot from 2022-04-01 03-25-26.png[.github]
 <br>
 
 ### ii)Write the image
