@@ -69,8 +69,8 @@ cv2.destroyAllWindows()
 v) #To cut and paste portion of image
 ```
 import cv2
-a=cv2.imread('r.jpg',1)
-tag = a[100:200,100:200]
+a=cv2.imread('h.jpg',1)
+tag = a[200:300,200:300]
 a[50:150,50:150] = tag
 cv2.imshow('Image',a)
 cv2.waitKey(0)
