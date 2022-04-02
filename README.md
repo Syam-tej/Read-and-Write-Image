@@ -96,9 +96,7 @@ cv2.destroyAllWindows()
 <br>
 
 ### v)Cut and paste portion of image
-<br>
-<br>
-
+![GitHub Logo](5.png)
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
 
