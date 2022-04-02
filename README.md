@@ -92,9 +92,7 @@ cv2.destroyAllWindows()
 
 
 ### iv)Access rows and columns
-<br>
-<br>
-
+![GitHub Logo](4.png)
 ### v)Cut and paste portion of image
 ![GitHub Logo](5.png)
 ## Result:
